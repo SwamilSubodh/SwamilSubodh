@@ -1,5 +1,8 @@
 # 💫 About Me:
-C++ Flask Python MySQL SQLite HTML5 CSS3 Jinja Chart.js JavaScript Canva Figma Matplotlib NumPy Pandas scikit-learn GitHub hugging face<br>
+3rd Year UG(aiml) at NIT Kurukshetra
+Building random tech projects, breaking things, and occasionally fixing them again.
+Into AI, web apps, automation, and cinematic tech content.
+
 
 
 ## 🌐 Socials:
